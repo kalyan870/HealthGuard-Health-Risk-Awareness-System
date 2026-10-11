@@ -21,3 +21,9 @@ This diagram describes the intended concept, not an implemented architecture. Th
 ## Before presenting it as runnable
 
 Add the interface and model/rule implementation, document the data source and validation approach, and explain clinical limitations. Do not use an awareness prototype to diagnose or treat a condition.
+
+
+## Live concept preview
+
+[Open the interactive prototype](https://kalyan870.github.io/HealthGuard-Health-Risk-Awareness-System/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
+
