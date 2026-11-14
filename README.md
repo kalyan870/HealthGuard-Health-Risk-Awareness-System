@@ -16,11 +16,11 @@ flowchart LR
   X --> U
 ```
 
-This diagram describes the intended concept, not an implemented architecture. The repository currently contains project copy and GitHub support files, but no runnable application source, installation instructions, or verified demo.
+This diagram describes planned functionality. The repository includes a single-file static HTML concept preview with a hard-coded sample response. It has no user-input form, risk model/rules, backend, clinical evidence, or evaluation dataset. Opening `index.html` is enough to view the mock interaction; no build or install step exists.
 
-## Before presenting it as runnable
+## Limitations and next steps
 
-Add the interface and model/rule implementation, document the data source and validation approach, and explain clinical limitations. Do not use an awareness prototype to diagnose or treat a condition.
+To move beyond a concept, add a real interface and model/rule implementation, document the data source and validation approach, and explain clinical limitations. Do not use this preview to diagnose or treat a condition.
 
 
 ## Live concept preview
