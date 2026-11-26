@@ -27,3 +27,9 @@ To move beyond a concept, add a real interface and model/rule implementation, do
 
 [Open the interactive prototype](https://kalyan870.github.io/HealthGuard-Health-Risk-Awareness-System/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
 
+## Architecture
+
+
+![HealthGuard-Health-Risk-Awareness-System architecture map](docs/images/healthguard-health-risk-awareness-system-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/healthguard-health-risk-awareness-system-architecture.svg)
